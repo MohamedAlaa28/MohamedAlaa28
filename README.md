@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Front-End Developer
 -------------------
 
-I am a Front-End Developer trained in JavaScript, Typescript, React.js, Redux, NextJs, CSS, Sass, Tailwind, Bootstrap, Chakra UI, HTML, SQL,Node.js, and AWS and I have a year of expertise as a JavaScript Developer
+I'm Mohamed Alaa, a Front-End Developer trained in JavaScript, Typescript, React.js, Redux, Next.js, CSS, Sass, Tailwind, Bootstrap, Material UI, Chakra Ui, HTML, SQL Server, C#,.Net, Node.js, and AWS and I have a year of expertise as a JavaScript Developer.
 
 * 🌍  I'm based in Egypt
 * 🖥️  See my portfolio at [My website](https://mohamedalaadev-5c497.web.app/)
